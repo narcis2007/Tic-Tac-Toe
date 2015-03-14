@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1360234214 source:c:\users\narcis\dropbox\info\xsi0-codeblocks\main.cpp
+	<iostream>
+	<cstdlib>
+
